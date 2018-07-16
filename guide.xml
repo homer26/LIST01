@@ -1,0 +1,1680 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RBS TV POA">
+    <display-name lang="pt">RBS TV POA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="pt">CINEMAX</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180716001000 -0300" stop="20180716015300 -0300" channel="CINEMAX">
+    <title lang="pt">Floresta Maldita</title>
+    <desc lang="pt">Uma mulher viaja até o Japão em busca de sua irmã gêmea após receber a notícia de seu desaparecimento(n)</desc>
+    <credits>
+      <director>Jason Zada</director>
+      <actor>Natalie Dormer</actor>
+      <actor>Eoin Macken</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Stephanie Vogt</actor>
+      <actor>Terry Diab</actor>
+      <actor>Yûho Yamashita</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180716015300 -0300" stop="20180716033600 -0300" channel="CINEMAX">
+    <title lang="pt">O Massacre da Serra Elétrica - A Lenda Continua</title>
+    <desc lang="pt">Em 1974, uma garota escapou de um massacre que matou cinco pessoas no Texas. Já adulta, ela é surpreendida ao saber que herdou uma mansão de uma avó. Lá, vai descobrir que outro parente também sobreviveu a chacina(n)</desc>
+    <credits>
+      <director>John Luessenhop</director>
+      <actor>Alexandra Daddario</actor>
+      <actor>Tania Raymonde</actor>
+      <actor>Scott Eastwood</actor>
+      <actor>Dan Yeager</actor>
+      <actor>Trey Songz</actor>
+      <actor>Keram Malicki-Sánchez</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180716033600 -0300" stop="20180716051200 -0300" channel="CINEMAX">
+    <title lang="pt">Fortaleza Secreta</title>
+    <desc lang="pt">Um grupo militar executa uma importante missão em um centro de investigações secretas que foi atacado. Ao entrar, o capitão Romeo encontra uma mulher com amnésia e uma cicatriz na cabeça(n)</desc>
+    <credits>
+      <director>Justin Dix</director>
+      <actor>Amber Clayton</actor>
+      <actor>Nicholas Bell</actor>
+      <actor>John Brumpton</actor>
+      <actor>Peta Sergeant</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180716051200 -0300" stop="20180716064400 -0300" channel="CINEMAX">
+    <title lang="pt">Todos os Cães Merecem o Céu</title>
+    <desc lang="pt">Cão malandro escapa da carrocinha e vai em busca de um amigo, com quem está acostumado a dar golpes. Os dois vão ter que aprender a fazer boas ações na terra para merecerem ir para o céu(n)</desc>
+    <credits>
+      <director>Don Bluth</director>
+      <actor>Vozes de Dom DeLuise</actor>
+      <actor>Judith Barsi</actor>
+      <actor>Vic Tayback</actor>
+      <actor>Burt Reynolds</actor>
+    </credits>
+    <date>1989</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180716064400 -0300" stop="20180716083500 -0300" channel="CINEMAX">
+    <title lang="pt">Charlie e a História de um Brinquedo</title>
+    <desc lang="pt">Caden e seu melhor amigo, Charlie, um cão da raça golden retriever, estão juntos para atrapalhar os planos de quem quer roubar a última invenção do pai: um brinquedo que vai mudar o mundo, literalmente(n)</desc>
+    <credits>
+      <director>Garry A. Brown</director>
+      <actor>Drew Waters</actor>
+      <actor>Raymond Ochoa</actor>
+      <actor>Rheagan Wallace</actor>
+      <actor>Tanner Fontana</actor>
+      <actor>Adrien Carpenter</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180716083500 -0300" stop="20180716102100 -0300" channel="CINEMAX">
+    <title lang="pt">As Aventuras de Bailey</title>
+    <desc lang="pt">Bailey é uma cachorrinha filhote que está de mudança. Durante a viagem, ela se perde de seus donos em uma das paradas e parte em uma jornada para achar sua família(n)</desc>
+    <credits>
+      <director>Steve Franke</director>
+      <actor>Rick Shew</actor>
+      <actor>Liz Franke</actor>
+      <actor>Truman Croft</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180716102100 -0300" stop="20180716124000 -0300" channel="CINEMAX">
+    <title lang="pt">Dezesseis Luas</title>
+    <desc lang="pt">Baseada no best-seller(n)</desc>
+    <credits>
+      <director>Richard LaGravenese</director>
+      <actor>Alice Englert</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Alden Ehrenreich</actor>
+      <actor>Viola Davis</actor>
+      <actor>Emmy Rossum</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180716124000 -0300" stop="20180716142200 -0300" channel="CINEMAX">
+    <title lang="pt">Eu Odeio Meu Emprego</title>
+    <desc lang="pt">Cinco mulheres trabalham em um restaurante de Londres e tem algumas ilusões de grandeza. Elas se veem como artistas, atrizes, autoras, amantes e revolucionárias(n)</desc>
+    <credits>
+      <director>Oliver Parker</director>
+      <actor>Neve Campbell</actor>
+      <actor>Shirley Henderson</actor>
+      <actor>Alexandra Maria Lara</actor>
+      <actor>Anna Maxwell Martin</actor>
+      <actor>Oana Pellea</actor>
+      <actor>Hilary Sesta</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180716142200 -0300" stop="20180716154700 -0300" channel="CINEMAX">
+    <title lang="pt">Looney Tunes: Fuga dos Coelhos</title>
+    <desc lang="pt">Looney Tunes estão de volta nesta nova aventura animada. A perseguição começa com uma flor muito rara que pode transformar qualquer coisa invisível(n)</desc>
+    <credits>
+      <director>Jeff Siergey</director>
+      <actor>Vozes de Fred Armisen</actor>
+      <actor>Bob Bergen</actor>
+      <actor>Jeff Bergman</actor>
+      <actor>Jess Harnell</actor>
+      <actor>Damon Jones</actor>
+      <actor>Maurice LaMarche</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180716154700 -0300" stop="20180716175500 -0300" channel="CINEMAX">
+    <title lang="pt">Os Goonies</title>
+    <desc lang="pt">Escrito por Steven Spielberg. Protagonizado por um grupo de amigos que partirá em uma aventura através de cavernas subterrâneas e navios afundados em busca de um tesouro pirata(n)</desc>
+    <credits>
+      <director>Richard Dooner</director>
+      <actor>Sean Astin</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jeff Cohen</actor>
+      <actor>Corey Feldman</actor>
+      <actor>Kerri Green</actor>
+      <actor>Martha Plimpton</actor>
+      <actor>Jonathan Ke Quan</actor>
+    </credits>
+    <date>1985</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180716175500 -0300" stop="20180716190900 -0300" channel="CINEMAX">
+    <title lang="pt">Minha Vida é um Circo: Boludos, Bolados</title>
+    <desc lang="pt">Um grupo circense brasileiro formado por Montanha, Cafi e Du Circo viaja ao redor do mundo, visitando trapezistas no interior da França(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180716190900 -0300" stop="20180716194200 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Humberto Gonzalez X Michael Carbajal</title>
+    <desc lang="pt">Ao conquistar o tricampeonato mundial, o mexicano Humberto González garantiu seu lugar no Hall da Fama do Boxe(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180716194200 -0300" stop="20180716201600 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Juan Domingo Roldán X Thomas Hearns</title>
+    <desc lang="pt">Obstinado, ele buscou incansavelmente um título inédito para o Chile. E tornou-se a maior lenda do boxe do país(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180716201600 -0300" stop="20180716213000 -0300" channel="CINEMAX">
+    <title lang="pt">Minha Vida é um Circo: Boludos, Bolados</title>
+    <desc lang="pt">Um grupo circense brasileiro formado por Montanha, Cafi e Du Circo viaja ao redor do mundo, visitando trapezistas no interior da França(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180716213000 -0300" stop="20180716220300 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Humberto Gonzalez X Michael Carbajal</title>
+    <desc lang="pt">Ao conquistar o tricampeonato mundial, o mexicano Humberto González garantiu seu lugar no Hall da Fama do Boxe(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180716220300 -0300" stop="20180716223800 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Juan Domingo Roldán X Thomas Hearns</title>
+    <desc lang="pt">Obstinado, ele buscou incansavelmente um título inédito para o Chile. E tornou-se a maior lenda do boxe do país(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180716223800 -0300" stop="20180717001000 -0300" channel="CINEMAX">
+    <title lang="pt">Departamento Q: O Ausente</title>
+    <desc lang="pt">O detetive Carl Morck e seu colega Assad examinam casos insolúveis na sede da polícia de Copenhague. Eles encontram um ex-policial falecido que tentava resolver o assassinato de seus filhos, ocorrido há duas décadas(n)</desc>
+    <credits>
+      <director>Mikkel Norgaard</director>
+      <actor>Nikolaj Lie Kaas</actor>
+      <actor>Fares Fares</actor>
+      <actor>Pilou Asbaek</actor>
+      <actor>Danica Curcic</actor>
+      <actor>Soren Pilmark</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180717001000 -0300" stop="20180717015300 -0300" channel="CINEMAX">
+    <title lang="pt">Floresta Maldita</title>
+    <desc lang="pt">Uma mulher viaja até o Japão em busca de sua irmã gêmea após receber a notícia de seu desaparecimento(n)</desc>
+    <credits>
+      <director>Jason Zada</director>
+      <actor>Natalie Dormer</actor>
+      <actor>Eoin Macken</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Stephanie Vogt</actor>
+      <actor>Terry Diab</actor>
+      <actor>Yûho Yamashita</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180717015300 -0300" stop="20180717033600 -0300" channel="CINEMAX">
+    <title lang="pt">O Massacre da Serra Elétrica - A Lenda Continua</title>
+    <desc lang="pt">Em 1974, uma garota escapou de um massacre que matou cinco pessoas no Texas. Já adulta, ela é surpreendida ao saber que herdou uma mansão de uma avó. Lá, vai descobrir que outro parente também sobreviveu a chacina(n)</desc>
+    <credits>
+      <director>John Luessenhop</director>
+      <actor>Alexandra Daddario</actor>
+      <actor>Tania Raymonde</actor>
+      <actor>Scott Eastwood</actor>
+      <actor>Dan Yeager</actor>
+      <actor>Trey Songz</actor>
+      <actor>Keram Malicki-Sánchez</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180717033600 -0300" stop="20180717051200 -0300" channel="CINEMAX">
+    <title lang="pt">Fortaleza Secreta</title>
+    <desc lang="pt">Um grupo militar executa uma importante missão em um centro de investigações secretas que foi atacado. Ao entrar, o capitão Romeo encontra uma mulher com amnésia e uma cicatriz na cabeça(n)</desc>
+    <credits>
+      <director>Justin Dix</director>
+      <actor>Amber Clayton</actor>
+      <actor>Nicholas Bell</actor>
+      <actor>John Brumpton</actor>
+      <actor>Peta Sergeant</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180717051200 -0300" stop="20180717064400 -0300" channel="CINEMAX">
+    <title lang="pt">Todos os Cães Merecem o Céu</title>
+    <desc lang="pt">Cão malandro escapa da carrocinha e vai em busca de um amigo, com quem está acostumado a dar golpes. Os dois vão ter que aprender a fazer boas ações na terra para merecerem ir para o céu(n)</desc>
+    <credits>
+      <director>Don Bluth</director>
+      <actor>Vozes de Dom DeLuise</actor>
+      <actor>Judith Barsi</actor>
+      <actor>Vic Tayback</actor>
+      <actor>Burt Reynolds</actor>
+    </credits>
+    <date>1989</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180717064400 -0300" stop="20180717083500 -0300" channel="CINEMAX">
+    <title lang="pt">Charlie e a História de um Brinquedo</title>
+    <desc lang="pt">Caden e seu melhor amigo, Charlie, um cão da raça golden retriever, estão juntos para atrapalhar os planos de quem quer roubar a última invenção do pai: um brinquedo que vai mudar o mundo, literalmente(n)</desc>
+    <credits>
+      <director>Garry A. Brown</director>
+      <actor>Drew Waters</actor>
+      <actor>Raymond Ochoa</actor>
+      <actor>Rheagan Wallace</actor>
+      <actor>Tanner Fontana</actor>
+      <actor>Adrien Carpenter</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180717083500 -0300" stop="20180717102100 -0300" channel="CINEMAX">
+    <title lang="pt">As Aventuras de Bailey</title>
+    <desc lang="pt">Bailey é uma cachorrinha filhote que está de mudança. Durante a viagem, ela se perde de seus donos em uma das paradas e parte em uma jornada para achar sua família(n)</desc>
+    <credits>
+      <director>Steve Franke</director>
+      <actor>Rick Shew</actor>
+      <actor>Liz Franke</actor>
+      <actor>Truman Croft</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180717102100 -0300" stop="20180717124000 -0300" channel="CINEMAX">
+    <title lang="pt">Dezesseis Luas</title>
+    <desc lang="pt">Baseada no best-seller(n)</desc>
+    <credits>
+      <director>Richard LaGravenese</director>
+      <actor>Alice Englert</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Alden Ehrenreich</actor>
+      <actor>Viola Davis</actor>
+      <actor>Emmy Rossum</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180717124000 -0300" stop="20180717142200 -0300" channel="CINEMAX">
+    <title lang="pt">Eu Odeio Meu Emprego</title>
+    <desc lang="pt">Cinco mulheres trabalham em um restaurante de Londres e tem algumas ilusões de grandeza. Elas se veem como artistas, atrizes, autoras, amantes e revolucionárias(n)</desc>
+    <credits>
+      <director>Oliver Parker</director>
+      <actor>Neve Campbell</actor>
+      <actor>Shirley Henderson</actor>
+      <actor>Alexandra Maria Lara</actor>
+      <actor>Anna Maxwell Martin</actor>
+      <actor>Oana Pellea</actor>
+      <actor>Hilary Sesta</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180717142200 -0300" stop="20180717154700 -0300" channel="CINEMAX">
+    <title lang="pt">Looney Tunes: Fuga dos Coelhos</title>
+    <desc lang="pt">Looney Tunes estão de volta nesta nova aventura animada. A perseguição começa com uma flor muito rara que pode transformar qualquer coisa invisível(n)</desc>
+    <credits>
+      <director>Jeff Siergey</director>
+      <actor>Vozes de Fred Armisen</actor>
+      <actor>Bob Bergen</actor>
+      <actor>Jeff Bergman</actor>
+      <actor>Jess Harnell</actor>
+      <actor>Damon Jones</actor>
+      <actor>Maurice LaMarche</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180717154700 -0300" stop="20180717175500 -0300" channel="CINEMAX">
+    <title lang="pt">Os Goonies</title>
+    <desc lang="pt">Escrito por Steven Spielberg. Protagonizado por um grupo de amigos que partirá em uma aventura através de cavernas subterrâneas e navios afundados em busca de um tesouro pirata(n)</desc>
+    <credits>
+      <director>Richard Dooner</director>
+      <actor>Sean Astin</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jeff Cohen</actor>
+      <actor>Corey Feldman</actor>
+      <actor>Kerri Green</actor>
+      <actor>Martha Plimpton</actor>
+      <actor>Jonathan Ke Quan</actor>
+    </credits>
+    <date>1985</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180717175500 -0300" stop="20180717190900 -0300" channel="CINEMAX">
+    <title lang="pt">Minha Vida é um Circo: Boludos, Bolados</title>
+    <desc lang="pt">Um grupo circense brasileiro formado por Montanha, Cafi e Du Circo viaja ao redor do mundo, visitando trapezistas no interior da França(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180717190900 -0300" stop="20180717194200 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Humberto Gonzalez X Michael Carbajal</title>
+    <desc lang="pt">Ao conquistar o tricampeonato mundial, o mexicano Humberto González garantiu seu lugar no Hall da Fama do Boxe(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180717194200 -0300" stop="20180717201600 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Juan Domingo Roldán X Thomas Hearns</title>
+    <desc lang="pt">Obstinado, ele buscou incansavelmente um título inédito para o Chile. E tornou-se a maior lenda do boxe do país(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180717201600 -0300" stop="20180717213000 -0300" channel="CINEMAX">
+    <title lang="pt">Minha Vida é um Circo: Boludos, Bolados</title>
+    <desc lang="pt">Um grupo circense brasileiro formado por Montanha, Cafi e Du Circo viaja ao redor do mundo, visitando trapezistas no interior da França(n)</desc>
+    <credits>
+      <director>Felipe Briso</director>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180717213000 -0300" stop="20180717220300 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Humberto Gonzalez X Michael Carbajal</title>
+    <desc lang="pt">Ao conquistar o tricampeonato mundial, o mexicano Humberto González garantiu seu lugar no Hall da Fama do Boxe(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180717220300 -0300" stop="20180717223800 -0300" channel="CINEMAX">
+    <title lang="pt">A Grande Luta: Juan Domingo Roldán X Thomas Hearns</title>
+    <desc lang="pt">Obstinado, ele buscou incansavelmente um título inédito para o Chile. E tornou-se a maior lenda do boxe do país(n)</desc>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180717223800 -0300" stop="20180718004900 -0300" channel="CINEMAX">
+    <title lang="pt">Departamento Q: O Ausente</title>
+    <desc lang="pt">O detetive Carl Morck e seu colega Assad examinam casos insolúveis na sede da polícia de Copenhague. Eles encontram um ex-policial falecido que tentava resolver o assassinato de seus filhos, ocorrido há duas décadas(n)</desc>
+    <credits>
+      <director>Mikkel Norgaard</director>
+      <actor>Nikolaj Lie Kaas</actor>
+      <actor>Fares Fares</actor>
+      <actor>Pilou Asbaek</actor>
+      <actor>Danica Curcic</actor>
+      <actor>Soren Pilmark</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180718004900 -0300" stop="20180718023800 -0300" channel="CINEMAX">
+    <title lang="pt">O Dia do Terror</title>
+    <desc lang="pt">Jeremy não faz muito sucesso com as garotas. Quando consegue que Dorothy lhe dê atenção, são pegos namorando e ela o acusa de tê-la atacado(n)</desc>
+    <credits>
+      <director>Jamie Blanks</director>
+      <actor>David Boreanaz</actor>
+      <actor>Denise Richards</actor>
+      <actor>Marley Shelton</actor>
+      <actor>Katherine Heigl</actor>
+      <actor>Jessica Capshaw</actor>
+      <actor>Hedy Burress</actor>
+      <actor>Jessica Cauffiel</actor>
+      <actor>Fulvio Cecere</actor>
+      <actor>Johnny Whitworth,Benita Ha</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180718023800 -0300" stop="20180718042300 -0300" channel="CINEMAX">
+    <title lang="pt">Precoce</title>
+    <desc lang="pt">Rob Crabbe está pronto para entrar na faculdade e está prestes a sair com a garota mais bonita da escola. No entanto, o seu momento com ela é ofuscado e ele percebe que o problema vai continuar até ele conhecer a garota certa(n)</desc>
+    <credits>
+      <director>Dan Beers</director>
+      <actor>Alan Tudyk</actor>
+      <actor>Craig Roberts</actor>
+      <actor>Carlson Young</actor>
+      <actor>Katie Findlay</actor>
+      <actor>John Karna</actor>
+      <actor>Brian Huskey</actor>
+      <actor>Aurélie Meriel</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180718042300 -0300" stop="20180718062500 -0300" channel="CINEMAX">
+    <title lang="pt">Meninos do Espaço</title>
+    <desc lang="pt">Jason e Kyle resolvem matar aula e visitar o aeroporto local. Lá, eles resolvem entrar em um dos aviões e o que era para ser uma tarde divertida, acaba tornando-se a maior aventura de suas vidas(n)</desc>
+    <credits>
+      <director>Rocco DeVilliers</director>
+      <actor>Jesse James</actor>
+      <actor>Reiley McClendon</actor>
+      <actor>Stephen Baldwin</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>J. Todd Adams</actor>
+      <actor>Dallen Gettling</actor>
+      <actor>Jennifer Slimko</actor>
+      <actor>Robert Costanzo</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180718062500 -0300" stop="20180718065200 -0300" channel="CINEMAX">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180718065200 -0300" stop="20180718084500 -0300" channel="CINEMAX">
+    <title lang="pt">Nas Mãos de Deus</title>
+    <desc lang="pt">Madagascar, Bali, México e Havaí são os palcos por onde vários surfistas passam, na luta para chegar ao topo da modalidade esportiva(n)</desc>
+    <credits>
+      <director>Zalman King</director>
+      <actor>Shane Dorian</actor>
+      <actor>Matt George</actor>
+      <actor>Matty Liu</actor>
+      <actor>Shaun Tomson</actor>
+      <actor>Maylin Pultar</actor>
+      <actor>Bret Michaels</actor>
+      <actor>Brion James</actor>
+      <actor>Darrick Doerner</actor>
+      <actor>Rush Randle</actor>
+      <actor>Mike Stewart</actor>
+      <actor>Tom Stern</actor>
+      <actor>Amy Hathaway</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180718084500 -0300" stop="20180718091300 -0300" channel="CINEMAX">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180718091300 -0300" stop="20180718104900 -0300" channel="CINEMAX">
+    <title lang="pt">Lucas - Um Intruso no Formigueiro</title>
+    <desc lang="pt">Após afogar um formigueiro, Lucas Nickle tem seu tamanho misteriosamente diminuído, até ficar na altura de uma formiga. Ele é, então, obrigado a trabalhar como escravo na reconstrução do formigueiro que ele mesmo destruiu(n)</desc>
+    <credits>
+      <director>John A. Davis</director>
+      <actor>Vozes de Julia Roberts</actor>
+      <actor>Nicolas Cage</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Zach Tyler</actor>
+      <actor>Regina King</actor>
+      <actor>Bruce Campbell</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Larry Miller</actor>
+      <actor>Allison Mack</actor>
+      <actor>Ricardo Montalban</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180718104900 -0300" stop="20180718123400 -0300" channel="CINEMAX">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+    <desc lang="pt">Depois de um tempo recluso na Europa, Johnny Blaze precisa impedir que o próprio Demônio encarnado sequestre um garoto de 10 anos que pode ser a única esperança da humanidade contra as trevas(n)</desc>
+    <credits>
+      <director>Mark Neveldine</director>
+      <director>Brian Taylor</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Violante Placido</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Idris Elba</actor>
+      <actor>Fergus Riordan</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180718123400 -0300" stop="20180718145200 -0300" channel="CINEMAX">
+    <title lang="pt">Mensagem para Você</title>
+    <desc lang="pt">Katheleen namora um conceituado jornalista. Mas está encantada com o homem com quem se corresponde por e-mail e de quem só sabe o codinome(n)</desc>
+    <credits>
+      <director>Nora Ephron</director>
+      <actor>Meg Ryan</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Parker Posey</actor>
+      <actor>Heather Burns</actor>
+      <actor>Jean Stapleton</actor>
+      <actor>Dabney Coleman</actor>
+      <actor>John Randolph</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180718145200 -0300" stop="20180718164000 -0300" channel="CINEMAX">
+    <title lang="pt">Amor por Contrato</title>
+    <desc lang="pt">Steve Jones e Kate Jones têm uma família aparentemente perfeita, mas guardam um surpreendente segredo. Quando mudam-se para um novo bairro, causam grande rebuliço na vizinhança com seus apetrechos de última geração(n)</desc>
+    <credits>
+      <director>Derrick Borte</director>
+      <actor>Amber Heard</actor>
+      <actor>David Duchovny</actor>
+      <actor>Demi Moore</actor>
+      <actor>Ben Hollingsworth</actor>
+      <actor>Gary Cole</actor>
+      <actor>Glenne Headly</actor>
+      <actor>Lauren Hutton</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180718164000 -0300" stop="20180718182500 -0300" channel="CINEMAX">
+    <title lang="pt">O Contrato</title>
+    <desc lang="pt">Ray Keene é um viúvo que está tentando se redimir dos erros do passado com o seu filho adolescente. A vida dos dois muda quando Ray precisa entregar à justiça um criminoso, só que a tarefa se transforma em uma perigosa missão(n)</desc>
+    <credits>
+      <director>Bruce Beresford</director>
+      <actor>John Cusack</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Jamie Anderson</actor>
+      <actor>Alice Krige</actor>
+      <actor>Megan Dodds</actor>
+      <actor>Corey Johnson</actor>
+      <actor>Jonathan Hyde</actor>
+      <actor>Bill Smitrovich</actor>
+      <actor>Anthony Warren</actor>
+      <actor>Ned Bellamy</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180718182500 -0300" stop="20180718201500 -0300" channel="CINEMAX">
+    <title lang="pt">Perigo em Bangkok</title>
+    <desc lang="pt">Joe é um matador que vai para Bangkok realizar um trabalho para Surat. Solitário por natureza, ele acaba se tornando o mentor de um garoto contratado para ajudá-lo e começa um romance com uma garota local(n)</desc>
+    <credits>
+      <director>Oxide Pang Chun</director>
+      <director>Danny Pang</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Shahkrit Yamnarm</actor>
+      <actor>Charlie Yeung</actor>
+      <actor>Panward Hemmanee</actor>
+      <actor>Nirattisai Kaljaruek</actor>
+      <actor>Dom Hetrakul</actor>
+      <actor>Tuck Napaskorn</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180718201500 -0300" stop="20180718220000 -0300" channel="CINEMAX">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+    <desc lang="pt">Depois de um tempo recluso na Europa, Johnny Blaze precisa impedir que o próprio Demônio encarnado sequestre um garoto de 10 anos que pode ser a única esperança da humanidade contra as trevas(n)</desc>
+    <credits>
+      <director>Mark Neveldine</director>
+      <director>Brian Taylor</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Violante Placido</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Idris Elba</actor>
+      <actor>Fergus Riordan</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180718220000 -0300" stop="20180719004900 -0300" channel="CINEMAX">
+    <title lang="pt">O Grande Herói</title>
+    <desc lang="pt">Durante a guerra no Afeganistão, uma equipe de elite das forças especiais SEAL, liderada por Marcus Luttrell, tem a missão de capturar o líder talibã Ahmad Shah, enquanto luta por suas vidas(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Emile Hirsch</actor>
+      <actor>Ben Foster</actor>
+      <actor>Ali Suliman</actor>
+      <actor>Eric Bana</actor>
+      <actor>Alexander Ludwig</actor>
+      <actor>Yousuf Azami</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180719004900 -0300" stop="20180719023800 -0300" channel="CINEMAX">
+    <title lang="pt">O Dia do Terror</title>
+    <desc lang="pt">Jeremy não faz muito sucesso com as garotas. Quando consegue que Dorothy lhe dê atenção, são pegos namorando e ela o acusa de tê-la atacado(n)</desc>
+    <credits>
+      <director>Jamie Blanks</director>
+      <actor>David Boreanaz</actor>
+      <actor>Denise Richards</actor>
+      <actor>Marley Shelton</actor>
+      <actor>Katherine Heigl</actor>
+      <actor>Jessica Capshaw</actor>
+      <actor>Hedy Burress</actor>
+      <actor>Jessica Cauffiel</actor>
+      <actor>Fulvio Cecere</actor>
+      <actor>Johnny Whitworth,Benita Ha</actor>
+    </credits>
+    <date>2001</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180719023800 -0300" stop="20180719042300 -0300" channel="CINEMAX">
+    <title lang="pt">Precoce</title>
+    <desc lang="pt">Rob Crabbe está pronto para entrar na faculdade e está prestes a sair com a garota mais bonita da escola. No entanto, o seu momento com ela é ofuscado e ele percebe que o problema vai continuar até ele conhecer a garota certa(n)</desc>
+    <credits>
+      <director>Dan Beers</director>
+      <actor>Alan Tudyk</actor>
+      <actor>Craig Roberts</actor>
+      <actor>Carlson Young</actor>
+      <actor>Katie Findlay</actor>
+      <actor>John Karna</actor>
+      <actor>Brian Huskey</actor>
+      <actor>Aurélie Meriel</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180719042300 -0300" stop="20180719062500 -0300" channel="CINEMAX">
+    <title lang="pt">Meninos do Espaço</title>
+    <desc lang="pt">Jason e Kyle resolvem matar aula e visitar o aeroporto local. Lá, eles resolvem entrar em um dos aviões e o que era para ser uma tarde divertida, acaba tornando-se a maior aventura de suas vidas(n)</desc>
+    <credits>
+      <director>Rocco DeVilliers</director>
+      <actor>Jesse James</actor>
+      <actor>Reiley McClendon</actor>
+      <actor>Stephen Baldwin</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>J. Todd Adams</actor>
+      <actor>Dallen Gettling</actor>
+      <actor>Jennifer Slimko</actor>
+      <actor>Robert Costanzo</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180719062500 -0300" stop="20180719065200 -0300" channel="CINEMAX">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180719065200 -0300" stop="20180719084500 -0300" channel="CINEMAX">
+    <title lang="pt">Nas Mãos de Deus</title>
+    <desc lang="pt">Madagascar, Bali, México e Havaí são os palcos por onde vários surfistas passam, na luta para chegar ao topo da modalidade esportiva(n)</desc>
+    <credits>
+      <director>Zalman King</director>
+      <actor>Shane Dorian</actor>
+      <actor>Matt George</actor>
+      <actor>Matty Liu</actor>
+      <actor>Shaun Tomson</actor>
+      <actor>Maylin Pultar</actor>
+      <actor>Bret Michaels</actor>
+      <actor>Brion James</actor>
+      <actor>Darrick Doerner</actor>
+      <actor>Rush Randle</actor>
+      <actor>Mike Stewart</actor>
+      <actor>Tom Stern</actor>
+      <actor>Amy Hathaway</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180719084500 -0300" stop="20180719091300 -0300" channel="CINEMAX">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180719091300 -0300" stop="20180719104900 -0300" channel="CINEMAX">
+    <title lang="pt">Lucas - Um Intruso no Formigueiro</title>
+    <desc lang="pt">Após afogar um formigueiro, Lucas Nickle tem seu tamanho misteriosamente diminuído, até ficar na altura de uma formiga. Ele é, então, obrigado a trabalhar como escravo na reconstrução do formigueiro que ele mesmo destruiu(n)</desc>
+    <credits>
+      <director>John A. Davis</director>
+      <actor>Vozes de Julia Roberts</actor>
+      <actor>Nicolas Cage</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Zach Tyler</actor>
+      <actor>Regina King</actor>
+      <actor>Bruce Campbell</actor>
+      <actor>Lily Tomlin</actor>
+      <actor>Larry Miller</actor>
+      <actor>Allison Mack</actor>
+      <actor>Ricardo Montalban</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180719104900 -0300" stop="20180719123400 -0300" channel="CINEMAX">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+    <desc lang="pt">Depois de um tempo recluso na Europa, Johnny Blaze precisa impedir que o próprio Demônio encarnado sequestre um garoto de 10 anos que pode ser a única esperança da humanidade contra as trevas(n)</desc>
+    <credits>
+      <director>Mark Neveldine</director>
+      <director>Brian Taylor</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Violante Placido</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Idris Elba</actor>
+      <actor>Fergus Riordan</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180719123400 -0300" stop="20180719145200 -0300" channel="CINEMAX">
+    <title lang="pt">Mensagem para Você</title>
+    <desc lang="pt">Katheleen namora um conceituado jornalista. Mas está encantada com o homem com quem se corresponde por e-mail e de quem só sabe o codinome(n)</desc>
+    <credits>
+      <director>Nora Ephron</director>
+      <actor>Meg Ryan</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Parker Posey</actor>
+      <actor>Heather Burns</actor>
+      <actor>Jean Stapleton</actor>
+      <actor>Dabney Coleman</actor>
+      <actor>John Randolph</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180719145200 -0300" stop="20180719164000 -0300" channel="CINEMAX">
+    <title lang="pt">Amor por Contrato</title>
+    <desc lang="pt">Steve Jones e Kate Jones têm uma família aparentemente perfeita, mas guardam um surpreendente segredo. Quando mudam-se para um novo bairro, causam grande rebuliço na vizinhança com seus apetrechos de última geração(n)</desc>
+    <credits>
+      <director>Derrick Borte</director>
+      <actor>Amber Heard</actor>
+      <actor>David Duchovny</actor>
+      <actor>Demi Moore</actor>
+      <actor>Ben Hollingsworth</actor>
+      <actor>Gary Cole</actor>
+      <actor>Glenne Headly</actor>
+      <actor>Lauren Hutton</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180719164000 -0300" stop="20180719182500 -0300" channel="CINEMAX">
+    <title lang="pt">O Contrato</title>
+    <desc lang="pt">Ray Keene é um viúvo que está tentando se redimir dos erros do passado com o seu filho adolescente. A vida dos dois muda quando Ray precisa entregar à justiça um criminoso, só que a tarefa se transforma em uma perigosa missão(n)</desc>
+    <credits>
+      <director>Bruce Beresford</director>
+      <actor>John Cusack</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Jamie Anderson</actor>
+      <actor>Alice Krige</actor>
+      <actor>Megan Dodds</actor>
+      <actor>Corey Johnson</actor>
+      <actor>Jonathan Hyde</actor>
+      <actor>Bill Smitrovich</actor>
+      <actor>Anthony Warren</actor>
+      <actor>Ned Bellamy</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180719182500 -0300" stop="20180719201500 -0300" channel="CINEMAX">
+    <title lang="pt">Perigo em Bangkok</title>
+    <desc lang="pt">Joe é um matador que vai para Bangkok realizar um trabalho para Surat. Solitário por natureza, ele acaba se tornando o mentor de um garoto contratado para ajudá-lo e começa um romance com uma garota local(n)</desc>
+    <credits>
+      <director>Oxide Pang Chun</director>
+      <director>Danny Pang</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Shahkrit Yamnarm</actor>
+      <actor>Charlie Yeung</actor>
+      <actor>Panward Hemmanee</actor>
+      <actor>Nirattisai Kaljaruek</actor>
+      <actor>Dom Hetrakul</actor>
+      <actor>Tuck Napaskorn</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180719201500 -0300" stop="20180719220000 -0300" channel="CINEMAX">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+    <desc lang="pt">Depois de um tempo recluso na Europa, Johnny Blaze precisa impedir que o próprio Demônio encarnado sequestre um garoto de 10 anos que pode ser a única esperança da humanidade contra as trevas(n)</desc>
+    <credits>
+      <director>Mark Neveldine</director>
+      <director>Brian Taylor</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Violante Placido</actor>
+      <actor>Ciarán Hinds</actor>
+      <actor>Johnny Whitworth</actor>
+      <actor>Idris Elba</actor>
+      <actor>Fergus Riordan</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180719220000 -0300" stop="20180720001900 -0300" channel="CINEMAX">
+    <title lang="pt">O Grande Herói</title>
+    <desc lang="pt">Durante a guerra no Afeganistão, uma equipe de elite das forças especiais SEAL, liderada por Marcus Luttrell, tem a missão de capturar o líder talibã Ahmad Shah, enquanto luta por suas vidas(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Emile Hirsch</actor>
+      <actor>Ben Foster</actor>
+      <actor>Ali Suliman</actor>
+      <actor>Eric Bana</actor>
+      <actor>Alexander Ludwig</actor>
+      <actor>Yousuf Azami</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180720001900 -0300" stop="20180720021700 -0300" channel="CINEMAX">
+    <title lang="pt">Sobrenatural</title>
+    <desc lang="pt">A trama conta a história de um casal (Patrick Wilson e Rose Byrne) que tenta evitar que o seu filho, que se encontra em estado de coma, seja encarcerado por espíritos demoníacos(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Andrew Astor</actor>
+      <actor>Barbara Hershey</actor>
+      <actor>Angus Sampson</actor>
+      <actor>Leigh Whannell</actor>
+      <actor>Lin Shaye</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180720021700 -0300" stop="20180720035100 -0300" channel="CINEMAX">
+    <title lang="pt">Um Jogo Legendário</title>
+    <desc lang="pt">Três amigos participam de um RPG onde os jogadores interpretam personagens fantásticos, como cavaleiros e feiticeiros. Sem querer, um deles liberta um demônio real no campo de jogo e eles terão que se organizar para vencê-lo(n)</desc>
+    <credits>
+      <director>Joe Lynch</director>
+      <actor>Ryan Kwanten</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Margarita Levieva</actor>
+      <actor>Michael Carpenter</actor>
+      <actor>Summer Glau</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180720035100 -0300" stop="20180720061500 -0300" channel="CINEMAX">
+    <title lang="pt">O Espião Que Sabia Demais</title>
+    <desc lang="pt">Anos 70, Guerra Fria. O agente George Smiley acredita que terá que se aposentar, mas, ao contrário, uma nova missão espera por ele(n)</desc>
+    <credits>
+      <director>Tomas Alfredson</director>
+      <actor>Toby Jones</actor>
+      <actor>John Hurt</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Colin Firth</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Mark Strong</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180720061500 -0300" stop="20180720081500 -0300" channel="CINEMAX">
+    <title lang="pt">Meninos do Espaço</title>
+    <desc lang="pt">Jason e Kyle resolvem matar aula e visitar o aeroporto local. Lá, eles resolvem entrar em um dos aviões e o que era para ser uma tarde divertida, acaba tornando-se a maior aventura de suas vidas(n)</desc>
+    <credits>
+      <director>Rocco DeVilliers</director>
+      <actor>Jesse James</actor>
+      <actor>Reiley McClendon</actor>
+      <actor>Stephen Baldwin</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>J. Todd Adams</actor>
+      <actor>Dallen Gettling</actor>
+      <actor>Jennifer Slimko</actor>
+      <actor>Robert Costanzo</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180720081500 -0300" stop="20180720100400 -0300" channel="CINEMAX">
+    <title lang="pt">Será Que</title>
+    <desc lang="pt">Wallace conhece a encantadora Chantry em uma festa. Ele ainda não superou o término de uma relação e ela tem um relacionamento estável. Como se sentem muito bem juntos, combinam de se encontrarem novamente como amigos(n)</desc>
+    <credits>
+      <director>Michael Dowse</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Megan Park</actor>
+      <actor>Adam Driver</actor>
+      <actor>Mackenzie Davis</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Lucius Hoyos</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180720100400 -0300" stop="20180720113200 -0300" channel="CINEMAX">
+    <title lang="pt">Lego Liga da Justiça: Ataque da Legião do Mal</title>
+    <desc lang="pt">Os criminosos estão em fuga agora que foi formada a Liga da Justiça, mantendo as ruas de Metrópolis a salvo. E isso deixa o gênio do mal Lex Luthor bastante infeliz(n)</desc>
+    <credits>
+      <director>Rick Morales</director>
+      <actor>Vozes de Dee Bradley Baker</actor>
+      <actor>Troy Baker</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Nolan North</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180720113200 -0300" stop="20180720135100 -0300" channel="CINEMAX">
+    <title lang="pt">Preto ou Branco</title>
+    <desc lang="pt">Elliot é um avô que cria sua neta Eloise após a trágica morte de sua mãe. Os problemas começam quando Rowena, a avó paterna da menina, exige a custódia de Eloise e começa uma disputa entre as duas famílias(n)</desc>
+    <credits>
+      <director>Mike Binder</director>
+      <actor>Kevin Costner</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Paula Newsome</actor>
+      <actor>Bertha Bindewald</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180720135100 -0300" stop="20180720160000 -0300" channel="CINEMAX">
+    <title lang="pt">Invasão a Casa Branca</title>
+    <desc lang="pt">Quando um grupo de terroristas invade a Casa Branca e faz o presidente dos EUA de refém, só um ex-agente de segurança poderá deter a ameaça e evitar que o país viva um caos(n)</desc>
+    <credits>
+      <director>Antoine Fuqua</director>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Finley Jacobsen</actor>
+      <actor>Dylan McDermott</actor>
+      <actor>Rick Yune</actor>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180720160000 -0300" stop="20180720180800 -0300" channel="CINEMAX">
+    <title lang="pt">Quem Quer Ser um Milionário</title>
+    <desc lang="pt">Jamal se inscreve no popular programa de TV(n)</desc>
+    <credits>
+      <director>Danny Boyle</director>
+      <director>Loveleen Tandan</director>
+      <actor>Freida Pinto</actor>
+      <actor>Madhur Mittal</actor>
+      <actor>Dev Patel</actor>
+      <actor>Saurabh Shukla</actor>
+      <actor>Rajendranath Zutshi</actor>
+      <actor>Jeneva Talwar</actor>
+      <actor>Azharuddin Mohammed Ismail</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180720180800 -0300" stop="20180720194800 -0300" channel="CINEMAX">
+    <title lang="pt">Mortal Kombat - A Aniquilação</title>
+    <desc lang="pt">Os guerreiros humanos desfrutam a paz que conquistaram ao vencer o Mortal Kombat. Mas Shao-Kahn, imperador de Outworld, está pronto a atacar novamente. Ele promete aniquilar a Terra(n)</desc>
+    <credits>
+      <director>John R. Leonetti</director>
+      <actor>Robin Shou</actor>
+      <actor>Sandra Hess</actor>
+      <actor>Talisa Soto</actor>
+      <actor>Brian Thompson</actor>
+      <actor>James Remar</actor>
+      <actor>Lynn 'Red' Williams</actor>
+      <actor>Reiner Schöne</actor>
+      <actor>Deron McBee</actor>
+      <actor>Musetta Vander</actor>
+      <actor>Marjean Holden</actor>
+      <actor>Irina Pantaeva</actor>
+      <actor>Chris Conrad</actor>
+      <actor>Litefoot</actor>
+      <actor>J. J. Perry</actor>
+      <actor>John Medlen</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180720194800 -0300" stop="20180720220000 -0300" channel="CINEMAX">
+    <title lang="pt">Parker</title>
+    <desc lang="pt">Jason Statham é Parker, um ladrão profissional cuja vida é regida por um forte código de ética. Mas quando seus companheiros o traem e tentam matá-lo, Parker leva a cabo uma terrível vingança(n)</desc>
+    <credits>
+      <director>Taylor Hackford</director>
+      <actor>Jason Statham</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Wendell Pierce</actor>
+      <actor>Clifton Collins Jr</actor>
+      <actor>Bobby Cannavale</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180720220000 -0300" stop="20180721001900 -0300" channel="CINEMAX">
+    <title lang="pt">O Ilusionista</title>
+    <desc lang="pt">Quando Eisenheim começa a apresentar seu show de magia, seus poderes chegam aos ouvidos do príncipe Leopold, que vai ao espetáculo com sua namorada Sophie. Convencido de que ele é uma fraude, Leopold quer desmascará-lo(n)</desc>
+    <credits>
+      <director>Neil Burger</director>
+      <actor>Edward Norton</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Rufus Sewell</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Jake Wood</actor>
+      <actor>Tom Fisher</actor>
+      <actor>Aaron Johnson</actor>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Michael Carter</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180721001900 -0300" stop="20180721021700 -0300" channel="CINEMAX">
+    <title lang="pt">Sobrenatural</title>
+    <desc lang="pt">A trama conta a história de um casal (Patrick Wilson e Rose Byrne) que tenta evitar que o seu filho, que se encontra em estado de coma, seja encarcerado por espíritos demoníacos(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Andrew Astor</actor>
+      <actor>Barbara Hershey</actor>
+      <actor>Angus Sampson</actor>
+      <actor>Leigh Whannell</actor>
+      <actor>Lin Shaye</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180721021700 -0300" stop="20180721035100 -0300" channel="CINEMAX">
+    <title lang="pt">Um Jogo Legendário</title>
+    <desc lang="pt">Três amigos participam de um RPG onde os jogadores interpretam personagens fantásticos, como cavaleiros e feiticeiros. Sem querer, um deles liberta um demônio real no campo de jogo e eles terão que se organizar para vencê-lo(n)</desc>
+    <credits>
+      <director>Joe Lynch</director>
+      <actor>Ryan Kwanten</actor>
+      <actor>Steve Zahn</actor>
+      <actor>Peter Dinklage</actor>
+      <actor>Margarita Levieva</actor>
+      <actor>Michael Carpenter</actor>
+      <actor>Summer Glau</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180721035100 -0300" stop="20180721061500 -0300" channel="CINEMAX">
+    <title lang="pt">O Espião Que Sabia Demais</title>
+    <desc lang="pt">Anos 70, Guerra Fria. O agente George Smiley acredita que terá que se aposentar, mas, ao contrário, uma nova missão espera por ele(n)</desc>
+    <credits>
+      <director>Tomas Alfredson</director>
+      <actor>Toby Jones</actor>
+      <actor>John Hurt</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Colin Firth</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Mark Strong</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180721061500 -0300" stop="20180721081500 -0300" channel="CINEMAX">
+    <title lang="pt">Meninos do Espaço</title>
+    <desc lang="pt">Jason e Kyle resolvem matar aula e visitar o aeroporto local. Lá, eles resolvem entrar em um dos aviões e o que era para ser uma tarde divertida, acaba tornando-se a maior aventura de suas vidas(n)</desc>
+    <credits>
+      <director>Rocco DeVilliers</director>
+      <actor>Jesse James</actor>
+      <actor>Reiley McClendon</actor>
+      <actor>Stephen Baldwin</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>J. Todd Adams</actor>
+      <actor>Dallen Gettling</actor>
+      <actor>Jennifer Slimko</actor>
+      <actor>Robert Costanzo</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180721081500 -0300" stop="20180721100400 -0300" channel="CINEMAX">
+    <title lang="pt">Será Que</title>
+    <desc lang="pt">Wallace conhece a encantadora Chantry em uma festa. Ele ainda não superou o término de uma relação e ela tem um relacionamento estável. Como se sentem muito bem juntos, combinam de se encontrarem novamente como amigos(n)</desc>
+    <credits>
+      <director>Michael Dowse</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Zoe Kazan</actor>
+      <actor>Megan Park</actor>
+      <actor>Adam Driver</actor>
+      <actor>Mackenzie Davis</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Lucius Hoyos</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180721100400 -0300" stop="20180721113200 -0300" channel="CINEMAX">
+    <title lang="pt">Lego Liga da Justiça: Ataque da Legião do Mal</title>
+    <desc lang="pt">Os criminosos estão em fuga agora que foi formada a Liga da Justiça, mantendo as ruas de Metrópolis a salvo. E isso deixa o gênio do mal Lex Luthor bastante infeliz(n)</desc>
+    <credits>
+      <director>Rick Morales</director>
+      <actor>Vozes de Dee Bradley Baker</actor>
+      <actor>Troy Baker</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Nolan North</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180721113200 -0300" stop="20180721135100 -0300" channel="CINEMAX">
+    <title lang="pt">Preto ou Branco</title>
+    <desc lang="pt">Elliot é um avô que cria sua neta Eloise após a trágica morte de sua mãe. Os problemas começam quando Rowena, a avó paterna da menina, exige a custódia de Eloise e começa uma disputa entre as duas famílias(n)</desc>
+    <credits>
+      <director>Mike Binder</director>
+      <actor>Kevin Costner</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Paula Newsome</actor>
+      <actor>Bertha Bindewald</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180721135100 -0300" stop="20180721160000 -0300" channel="CINEMAX">
+    <title lang="pt">Invasão a Casa Branca</title>
+    <desc lang="pt">Quando um grupo de terroristas invade a Casa Branca e faz o presidente dos EUA de refém, só um ex-agente de segurança poderá deter a ameaça e evitar que o país viva um caos(n)</desc>
+    <credits>
+      <director>Antoine Fuqua</director>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Finley Jacobsen</actor>
+      <actor>Dylan McDermott</actor>
+      <actor>Rick Yune</actor>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180721160000 -0300" stop="20180721180800 -0300" channel="CINEMAX">
+    <title lang="pt">Quem Quer Ser um Milionário</title>
+    <desc lang="pt">Jamal se inscreve no popular programa de TV(n)</desc>
+    <credits>
+      <director>Danny Boyle</director>
+      <director>Loveleen Tandan</director>
+      <actor>Freida Pinto</actor>
+      <actor>Madhur Mittal</actor>
+      <actor>Dev Patel</actor>
+      <actor>Saurabh Shukla</actor>
+      <actor>Rajendranath Zutshi</actor>
+      <actor>Jeneva Talwar</actor>
+      <actor>Azharuddin Mohammed Ismail</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180721180800 -0300" stop="20180721194800 -0300" channel="CINEMAX">
+    <title lang="pt">Mortal Kombat - A Aniquilação</title>
+    <desc lang="pt">Os guerreiros humanos desfrutam a paz que conquistaram ao vencer o Mortal Kombat. Mas Shao-Kahn, imperador de Outworld, está pronto a atacar novamente. Ele promete aniquilar a Terra(n)</desc>
+    <credits>
+      <director>John R. Leonetti</director>
+      <actor>Robin Shou</actor>
+      <actor>Sandra Hess</actor>
+      <actor>Talisa Soto</actor>
+      <actor>Brian Thompson</actor>
+      <actor>James Remar</actor>
+      <actor>Lynn 'Red' Williams</actor>
+      <actor>Reiner Schöne</actor>
+      <actor>Deron McBee</actor>
+      <actor>Musetta Vander</actor>
+      <actor>Marjean Holden</actor>
+      <actor>Irina Pantaeva</actor>
+      <actor>Chris Conrad</actor>
+      <actor>Litefoot</actor>
+      <actor>J. J. Perry</actor>
+      <actor>John Medlen</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180721194800 -0300" stop="20180721220000 -0300" channel="CINEMAX">
+    <title lang="pt">Parker</title>
+    <desc lang="pt">Jason Statham é Parker, um ladrão profissional cuja vida é regida por um forte código de ética. Mas quando seus companheiros o traem e tentam matá-lo, Parker leva a cabo uma terrível vingança(n)</desc>
+    <credits>
+      <director>Taylor Hackford</director>
+      <actor>Jason Statham</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Wendell Pierce</actor>
+      <actor>Clifton Collins Jr</actor>
+      <actor>Bobby Cannavale</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180721220000 -0300" stop="20180722000300 -0300" channel="CINEMAX">
+    <title lang="pt">O Ilusionista</title>
+    <desc lang="pt">Quando Eisenheim começa a apresentar seu show de magia, seus poderes chegam aos ouvidos do príncipe Leopold, que vai ao espetáculo com sua namorada Sophie. Convencido de que ele é uma fraude, Leopold quer desmascará-lo(n)</desc>
+    <credits>
+      <director>Neil Burger</director>
+      <actor>Edward Norton</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Rufus Sewell</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Jake Wood</actor>
+      <actor>Tom Fisher</actor>
+      <actor>Aaron Johnson</actor>
+      <actor>Eleanor Tomlinson</actor>
+      <actor>Michael Carter</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180722000300 -0300" stop="20180722013900 -0300" channel="CINEMAX">
+    <title lang="pt">Busca Alucinante</title>
+    <desc lang="pt">Após constatar o sequestro de seu marido, Mary, irá até as últimas consequências para descobrir seu paradeiro. Para piorar a situação, as investigações apontam que o rapaz jamais esteve no hospital(n)</desc>
+    <credits>
+      <director>Michael Feifer</director>
+      <actor>Brittany Murphy</actor>
+      <actor>Dean Cain</actor>
+      <actor>Mimi Rogers</actor>
+      <actor>Peter Bogdanovich</actor>
+      <actor>Jay Pickett</actor>
+      <actor>Tim Thomerson</actor>
+      <actor>America Young</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180722013900 -0300" stop="20180722035700 -0300" channel="CINEMAX">
+    <title lang="pt">O Hotel de Um Milhão de Dólares</title>
+    <desc lang="pt">O filho de um bilionário morre num hotel decadente e um agente federal chega para virar do avesso vidas dos hóspedes, a fim de descobrir se a morte foi suicídio ou assassinato(n)</desc>
+    <credits>
+      <director>Wim Wenders</director>
+      <actor>Mel Gibson</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Jeremy Davies</actor>
+      <actor>Jimmy Smits</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Bud Cort</actor>
+      <actor>Amanda Plummer</actor>
+      <actor>Gloria Stuart</actor>
+      <actor>Tom Bower</actor>
+      <actor>Donal Logue</actor>
+      <actor>Michael Arturo</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180722035700 -0300" stop="20180722063800 -0300" channel="CINEMAX">
+    <title lang="pt">A Princesa de Montpensier</title>
+    <desc lang="pt">1562, as guerras de religião estão no auge. Apaixonada pelo duque de Guise, Marie de Mézières é obrigada a casar-se com o príncipe de Montpensier(n)</desc>
+    <credits>
+      <director>Bertrand Tavernier</director>
+      <actor>Mélanie Thierry</actor>
+      <actor>Lambert Wilson</actor>
+      <actor>Grégoire Leprince-Ringuet</actor>
+      <actor>Anatole de Bodinat</actor>
+      <actor>Raphaël Personnaz</actor>
+      <actor>Michel Vuillermoz</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180722063800 -0300" stop="20180722070700 -0300" channel="CINEMAX">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180722070700 -0300" stop="20180722090700 -0300" channel="CINEMAX">
+    <title lang="pt">Sophie</title>
+    <desc lang="pt">Sophie é uma jovem com um grande talento para a dança. Sua melhor amiga é Sheba, uma elefanta do zoológico de seus pais, mas quando se veem forçados a vendê-la a um circo, Sophie decidirá ir atrás para resgatá-la(n)</desc>
+    <credits>
+      <director>Leif Bristow</director>
+      <actor>Augustus Prew</actor>
+      <actor>Erica Durance</actor>
+      <actor>Brittany Bristow</actor>
+      <actor>Thure Riefenstein</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180722090700 -0300" stop="20180722105900 -0300" channel="CINEMAX">
+    <title lang="pt">Academia de Vampiros - O Beijo das Sombras</title>
+    <desc lang="pt">Rose é a guardiã Dhampir de Lisa, uma princesa vampira Moroi, a próxima na linha de sucessão do trono. Quando voltam para a escola de vampiros Saint Vladimir, uma série de ataques dos vampiros Strigoi colocará Lisa em perigo(n)</desc>
+    <credits>
+      <director>Mark Waters</director>
+      <actor>Gabriel Byrne</actor>
+      <actor>Sarah Hyland</actor>
+      <actor>Cameron Monaghan</actor>
+      <actor>Zoey Deutch</actor>
+      <actor>Lucy Fry</actor>
+      <actor>Danila Kozlovsky</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180722105900 -0300" stop="20180722125100 -0300" channel="CINEMAX">
+    <title lang="pt">As Palavras</title>
+    <desc lang="pt">Um famoso autor em crise conta a história de seu mais novo livro. Com dificuldades para publicar seu primeiro romance, ele encontra um genial antigo manuscrito sem dono e decide publicá-lo como se fosse seu(n)</desc>
+    <credits>
+      <director>Brian Klugman</director>
+      <director>Lee Sternthal</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>John Hannah</actor>
+      <actor>Vito DeFilippo</actor>
+      <actor>Lucinda Davis</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180722125100 -0300" stop="20180722142600 -0300" channel="CINEMAX">
+    <title lang="pt">Um Monstro em Paris</title>
+    <desc lang="pt">1910, Paris. Um misterioso monstro que vive em um jardim se apaixona por uma bela e jovem cantora e fica preso na mais inesperada e emocionante aventura(n)</desc>
+    <credits>
+      <director>Bibo Bergeron</director>
+      <actor>Vozes de Matthieu Chedid</actor>
+      <actor>Vanessa Paradis</actor>
+      <actor>Gad Elmaleh</actor>
+      <actor>François Cluzet</actor>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Julie Ferrier</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180722142600 -0300" stop="20180722161000 -0300" channel="CINEMAX">
+    <title lang="pt">Os Cavaleiros do Zodíaco: A Lenda do Santuário</title>
+    <desc lang="pt">O cavaleiro de Sagitário conseguiu proteger a reencarnação da deusa Athena na Terra, um bebê chamado Saori. Dezesseis anos depois, a jovem conhecerá a sua missão e a um grupo de cavaleiros dispostos a protegê-la das forças do mal(n)</desc>
+    <credits>
+      <director>Kei'ichi Sato</director>
+      <actor>Vozes de Kaito Ishikawa</actor>
+      <actor>Kenji Akabane</actor>
+      <actor>Kenshô Ono</actor>
+      <actor>Nobuhiko Okamoto</actor>
+      <actor>Kenji Nojima</actor>
+      <actor>Go Inoue</actor>
+      <actor>Ayaka Sasaki</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180722161000 -0300" stop="20180722180800 -0300" channel="CINEMAX">
+    <title lang="pt">Até o Fim</title>
+    <desc lang="pt">Um homem viaja sozinho em seu veleiro pelo Oceano Índico. Mas a embarcação se choca contra um container abandonado e sofre terríveis danos. Agora ele terá que se esforçar para sobreviver(n)</desc>
+    <credits>
+      <director>J.C. Chandor</director>
+      <actor>Robert Redford</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180722180800 -0300" stop="20180722201500 -0300" channel="CINEMAX">
+    <title lang="pt">O Som do Coração</title>
+    <desc lang="pt">O filme conta a história fantástica de August Rush, um menino que se apresenta nas ruas e que possui um dom musical surpreendente, só que o seu maior sonho é encontrar seus pais, que o abandonaram, ainda bebê em um orfanato(n)</desc>
+    <credits>
+      <director>Kirsten Sheridan</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Keri Russell</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Jonathan Rhys-Meyers</actor>
+      <actor>Robin Williams</actor>
+      <actor>William Sadler</actor>
+      <actor>Marian Seldes</actor>
+      <actor>Mykelti Williamson</actor>
+      <actor>Aaron Staton</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180722201500 -0300" stop="20180722220000 -0300" channel="CINEMAX">
+    <title lang="pt">Uma Viagem Infernal</title>
+    <desc lang="pt">Paul é um cientista que deve ir ao deserto africano para fazer um trabalho de pesquisa, em companhia de sua filha Josie e sua namorada Tally. Porém, caçadores assassinam Paul, e Josie e Tally têm que tentar sobreviver(n)</desc>
+    <credits>
+      <director>Evelyn Purcell</director>
+      <actor>Stephen Dorff</actor>
+      <actor>Maisie Williams</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Svetlana Metkina</actor>
+      <actor>Calvin Hayward</actor>
+      <actor>Jeanne Neilson</actor>
+      <actor>Ndalo Stofile</actor>
+      <actor>Andrew Roux</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180722220000 -0300" stop="20180722233500 -0300" channel="CINEMAX">
+    <title lang="pt">Vírus</title>
+    <desc lang="pt">Um vírus mortal se espalhou por todo o globo. Quatro jovens dirigem pelas estradas dos EUA com o objetivo de chegar ao Golfo do México, onde poderiam sobreviver à doença apocalíptica(n)</desc>
+    <credits>
+      <director>Àlex Pastor</director>
+      <director>David Pastor</director>
+      <actor>Chris Pine</actor>
+      <actor>Piper Perabo</actor>
+      <actor>Lou Taylor Pucci</actor>
+      <actor>Emily VanCamp</actor>
+      <actor>Christopher Meloni</actor>
+      <actor>Kiernan Shipka</actor>
+      <actor>Ron McClary</actor>
+      <actor>Mark Moses</actor>
+      <actor>Josh Berry</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180722233500 -0300" stop="20180723000300 -0300" channel="CINEMAX">
+    <title lang="pt">Assassinos</title>
+    <desc lang="pt">Dois homens sem nada em comum compartilham um segredo obscuro: são assassinos em série. Descobrem um ao outro na Internet, quando ambos sobem vídeos dos seus crimes(n)</desc>
+    <credits>
+      <director>Kimo Stamboel</director>
+      <director>Timo Tjahjanto</director>
+      <actor>Kazuki Kitamura</actor>
+      <actor>Oka Antara</actor>
+      <actor>Rin Takanashi</actor>
+      <actor>Luna Maya</actor>
+      <actor>Ray Sahetapy</actor>
+      <actor>Ersya Aurelia</actor>
+      <actor>Tensui Sakai</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+</tv>
